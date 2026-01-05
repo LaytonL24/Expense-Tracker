@@ -1,0 +1,3 @@
+name,amount,category,date
+busing from toronto to mcmaster,13.02,Bus,2022-04-17
+steaks,199.02,Groceries,July 7 2024
