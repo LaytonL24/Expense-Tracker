@@ -28,6 +28,7 @@ python3 main.py
 
 * Add a new expense
 * View all expenses
+* Search for expense
 * Delete an expense
 * Exit the program
 
